@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^home$ index.php [NC,L]
+RewriteRule ^registration$ registration.php [NC,L]
+RewriteRule ^login$ login.php [NC,L]
+RewriteRule ^news$ news.php [NC,L]

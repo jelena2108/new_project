@@ -1,0 +1,1 @@
+<?php echo "<footer><p>Copyright &copy;News</p></footer>"; ?>

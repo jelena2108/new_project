@@ -1,0 +1,151 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  background-color:#d5dbdb;
+  color:#383838;
+ 
+}
+.wrapper {
+  width:960px;
+  margin:0 auto;
+ background-color: #AAA;
+ 
+}
+
+select {
+  margin-top:10px;
+  padding:10px;
+}
+h1 {
+  padding:10px;
+}
+h2.heading {
+  padding:20px;
+}
+h5 {
+  color:rgb(114, 124, 214);
+}
+p {
+  padding:15px;
+}
+header {
+  overflow:hidden;
+  background-color: #AAA;
+  
+}
+
+button {
+  margin-bottom:15px;
+  padding:10px;
+  width:200px;
+
+}
+
+.logo {
+  padding-left:10px;
+}
+
+
+ul {
+  padding:0;
+  margin:0;
+   background-color: #EEE;
+
+
+
+}
+
+ul li {
+  float:left;
+  margin:0;
+  list-style-type: none;
+  padding:15px;
+   background-color: #EEE;
+   border:1px solid #333;
+   box-shadow: 3px -3px 5px 0px #555;
+  border-radius: 2px;
+
+}
+
+li{
+  list-style-type: none;
+}
+
+a:link,
+a:visited {
+   text-decoration:none;
+  transition:all 1s linear;
+}
+a:hover {
+  color:red;
+}
+a:active {
+  color:#BBB;
+}
+.search {
+ background-color: #EEE;
+  margin-top:10px;
+  margin-right:10px;
+  margin-bottom:10px;
+  margin-left:30px;
+  padding:10px;
+  box-shadow: 3px -3px 5px 0px #555;
+  border-radius: 2px;
+}
+label {
+  margin-left:30px;
+}
+
+.log{
+  padding:10px;
+  
+}
+
+
+p {
+  color:blueviolet;
+}
+p.text {
+  color:black;
+  padding:30px;
+}
+
+.input {
+  width:300px;
+  margin:10px;
+  padding:10px;
+  color:blue;
+  font-size:16px;
+}
+.login {
+  width:300px;
+  margin:10px;
+  padding:10px;
+  color:blue;
+}
+main {
+  width:65%;
+  float:left;
+  background-color: #BBB;
+}
+.index{
+  width:100%;
+}
+aside {
+  width:35%;
+  float:right;
+  background-color: #EEE;
+}
+.unstyled {
+  float: none;
+}
+
+footer {
+  clear:both;
+  padding-top:15px;
+  padding-bottom:5px;
+}
+footer p {
+  text-align: center;
+  font-size:12px;
+}

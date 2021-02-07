@@ -1,0 +1,183 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  background-color:#d5dbdb;
+  color:#383838;
+}
+.wrapper {
+  width:960px;
+  margin:0 auto;
+  background-color: rgb(199, 195, 197);
+}
+select {
+  margin-top:10px;
+  padding:10px;
+}
+h1 {
+  padding:10px;
+}
+h3.categories {
+  padding-left:5px;
+}
+
+p {
+  padding:15px;
+}
+header {
+  overflow:hidden;
+  background-color: #AAA;
+}
+.logo {
+  padding-left:10px;
+}
+.unstyled li{
+  float: none;
+  padding:0;
+  border: none;
+
+}
+ul {
+  padding:0;
+  margin:0;
+   background-color: #EEE;
+
+
+
+}
+ul li {
+  float:left;
+  margin:0;
+  list-style-type: none;
+  padding:15px;
+   background-color: #EEE;
+   border:1px solid #333;
+   box-shadow: 3px -3px 5px 0px #555;
+  border-radius: 2px;
+
+}
+li{
+  list-style-type: none;
+}
+
+a:link,
+a:visited {
+   text-decoration:none;
+  transition:all 1s linear;
+}
+a:hover {
+  
+  color:red;
+  
+
+}
+a:active {
+  color:#BBB;
+}
+.search {
+ background-color: #EEE;
+  margin-top:10px;
+  margin-right:10px;
+  margin-bottom:10px;
+  margin-left:30px;
+  padding:10px;
+  box-shadow: 3px -3px 5px 0px #555;
+  border-radius: 2px;
+}
+label {
+  margin-left:30px;
+}
+
+.log{
+  padding:10px;
+}
+h1 {
+  margin-left:30px;
+}
+p {
+  color:blueviolet;
+ 
+}
+p.nav {
+  margin:0;
+  border:1px solid black;
+}
+p.text {
+  color:black;
+  padding:30px;
+}
+
+.input {
+  width:300px;
+  margin:10px;
+  padding:10px;
+  color:blue;
+  font-size:16px;
+}
+
+.login {
+  width:300px;
+  margin:10px;
+  padding:10px;
+  color:blue;
+}
+main {
+  width:75%;
+  float:right;
+  background-color: #CCC;
+
+}
+main.users {
+  overflow:auto;
+}
+
+thead th {
+  background-color:#EEE;
+}
+tr:nth-child(even){
+    background-color:#AAA;
+    ;
+  }
+tr:hover {
+  background-color: #ddd;
+}
+
+th,td {
+  font-size:12px;
+}
+td {
+  padding:10px;
+}
+
+aside {
+  margin:0;
+  width:25%;
+  float:left;
+  background-color: #EEE;
+}
+.newsMain{
+  width:100%;
+  float:left;
+  background-color: #EEE;
+}
+.newsAside{
+  width:30%;
+  float:right;
+  background-color: chartreuse;
+}
+footer {
+  clear:both;
+  padding-top:15px;
+  padding-bottom:15px;
+  background-color: #CCC;
+}
+
+
+
+.komentar {
+  width:100%;
+  background-color: antiquewhite;
+}
+.comment_display {
+ 
+  background-color: azure;
+}
